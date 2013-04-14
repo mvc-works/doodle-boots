@@ -1,0 +1,24 @@
+{
+  "name": "doodle-boots",
+  "version": "0.0.0",
+  "description": "auto reload websocket emitter based on Rain-boots",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jiyinyiyong/doodle-boots.git"
+  },
+  "keywords": [
+    "rain-boots",
+    "reload"
+  ],
+  "dependencies": {
+    "ws": "*",
+    "chokidar": "*"
+  },
+  "author": "jiyinyiyong",
+  "license": "BSD",
+  "readmeFilename": "readme.md"
+}
